@@ -1,6 +1,6 @@
 # Read in the fire data
 
-fire = read.csv("../Labs/Lab7/FIREDAM.csv")
+fire = read.csv("data/FIREDAM.csv")
 
 # Check
 head(fire,20)
