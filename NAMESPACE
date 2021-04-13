@@ -3,6 +3,7 @@
 export(mybin)
 export(mycltp)
 export(myfirstfun)
+export(mymaxlik)
 export(myncurve)
 export(myplot)
 export(myread)
